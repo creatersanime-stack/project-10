@@ -1,0 +1,83 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+#bg{
+    background-color: #281f16;
+    color: #bb8f61;
+ font-family: "Dancing Script", cursive;
+}
+#bg1{
+    background-color: #281f16;
+    color: #bb8f61;
+ font-family: "Dancing Script", cursive;
+}
+
+#bg1:hover{
+    background-color: #cfb18f;
+}
+.bg{
+        background-color: #281f16;
+}
+h2{
+ font-family: "Kaushan Script", cursive;
+}
+
+
+    /* .reservation-section {
+      padding: 80px 15px;
+    } */
+
+    .title-small {
+      letter-spacing: 3px;
+      font-size: 13px;
+      text-align: center;
+      color: #a88a5c;
+    }
+
+    .title-main {
+      text-align: center;
+      font-size: 42px;
+      font-weight: bold;
+      margin-bottom: 40px;
+    }
+
+    .form-control {
+      background: transparent;
+      border: 1px solid #a88a5c;
+      color: #fff;
+      padding: 12px;
+    }
+
+    .form-control::placeholder {
+      color: #a88a5c;
+    }
+
+    .btn-custom {
+      background-color: #663c05;
+      color: #fff;
+      padding: 12px;
+      font-weight: 600;
+      border: none;
+      transition: 0.3s;
+    }
+
+    .btn-custom:hover {
+      background-color: #a88a5c;
+    }  
+
+    /* 🔥 RESPONSIVE FIX */
+    @media (max-width: 768px) {
+      .title-main {
+        font-size: 28px;
+      }
+
+     
+    }
+#font{
+ font-family: "Dancing Script", cursive;
+ font-weight: bold;
+ font-size:xx-large;
+
+}
